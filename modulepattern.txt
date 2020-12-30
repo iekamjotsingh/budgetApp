@@ -1,0 +1,6 @@
+Why to use modules for project??
+
+- Organized and code that is related to each other.
+- Private and public variables
+- No overwriting of code
+- Data encapsulation
